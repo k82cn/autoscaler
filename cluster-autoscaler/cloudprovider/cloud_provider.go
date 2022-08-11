@@ -60,6 +60,8 @@ const (
 	OVHcloudProviderName = "ovhcloud"
 	// LinodeProviderName gets the provider name of linode
 	LinodeProviderName = "linode"
+	// ShellProviderName gets the provider name of shell
+	ShellProviderName = "shell"
 )
 
 // CloudProvider contains configuration info and functions for interacting with
